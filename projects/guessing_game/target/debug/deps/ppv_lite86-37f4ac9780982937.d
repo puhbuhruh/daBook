@@ -1,0 +1,11 @@
+/Users/puhbuhruh/Github/daBook/projects/guessing_game/target/debug/deps/ppv_lite86-37f4ac9780982937.rmeta: /Users/puhbuhruh/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/lib.rs /Users/puhbuhruh/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/soft.rs /Users/puhbuhruh/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/types.rs /Users/puhbuhruh/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/x86_64/mod.rs /Users/puhbuhruh/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/x86_64/sse2.rs
+
+/Users/puhbuhruh/Github/daBook/projects/guessing_game/target/debug/deps/libppv_lite86-37f4ac9780982937.rlib: /Users/puhbuhruh/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/lib.rs /Users/puhbuhruh/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/soft.rs /Users/puhbuhruh/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/types.rs /Users/puhbuhruh/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/x86_64/mod.rs /Users/puhbuhruh/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/x86_64/sse2.rs
+
+/Users/puhbuhruh/Github/daBook/projects/guessing_game/target/debug/deps/ppv_lite86-37f4ac9780982937.d: /Users/puhbuhruh/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/lib.rs /Users/puhbuhruh/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/soft.rs /Users/puhbuhruh/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/types.rs /Users/puhbuhruh/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/x86_64/mod.rs /Users/puhbuhruh/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/x86_64/sse2.rs
+
+/Users/puhbuhruh/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/lib.rs:
+/Users/puhbuhruh/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/soft.rs:
+/Users/puhbuhruh/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/types.rs:
+/Users/puhbuhruh/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/x86_64/mod.rs:
+/Users/puhbuhruh/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/x86_64/sse2.rs:
